@@ -1,0 +1,4 @@
+﻿  test.c
+D:\Code\test_250730\test_250730\test.c(146,7): warning C4101: “ch”: 未引用的局部变量
+D:\Code\test_250730\test_250730\test.c(147,9): warning C4101: “d”: 未引用的局部变量
+  test_250730.vcxproj -> D:\Code\test_250730\x64\Debug\test_250730.exe
